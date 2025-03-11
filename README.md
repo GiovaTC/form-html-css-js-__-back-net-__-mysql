@@ -9,4 +9,7 @@
 ## get api datos - 200 ok
 ![image](https://github.com/user-attachments/assets/1a709d02-2f22-4b51-b370-abb9b343614e)
 
+![image](https://github.com/user-attachments/assets/ba809e17-7cdd-4b93-938a-e3ddb6c60a32)
+
+
 
