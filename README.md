@@ -11,5 +11,9 @@
 
 ![image](https://github.com/user-attachments/assets/ba809e17-7cdd-4b93-938a-e3ddb6c60a32)
 
+## db gestion_datos
+![image](https://github.com/user-attachments/assets/fb002377-1e3a-41fa-ad84-fccf8978143d)
+
+
 
 
