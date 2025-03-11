@@ -16,6 +16,9 @@
 ## db gestion_datos
 ![image](https://github.com/user-attachments/assets/fb002377-1e3a-41fa-ad84-fccf8978143d)
 
+## cors policy
+![image](https://github.com/user-attachments/assets/e271c24b-71f6-446a-ab91-724b54699c89)
+
 
 
 
