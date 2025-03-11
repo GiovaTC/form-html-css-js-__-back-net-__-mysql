@@ -6,3 +6,7 @@
 ## backend form - api core
 ![image](https://github.com/user-attachments/assets/3fb5f21a-09d2-4063-ab25-5a69aef13165)
 
+## get api datos - 200 ok
+![image](https://github.com/user-attachments/assets/1a709d02-2f22-4b51-b370-abb9b343614e)
+
+
