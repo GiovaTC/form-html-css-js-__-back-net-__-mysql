@@ -19,6 +19,10 @@
 ## cors policy
 ![image](https://github.com/user-attachments/assets/e271c24b-71f6-446a-ab91-724b54699c89)
 
+## frontend
+![image](https://github.com/user-attachments/assets/087a9beb-b9bb-454d-bf3e-4ad8666f5610)
+
+
 
 
 
