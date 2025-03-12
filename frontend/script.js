@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Función para cargar datos desde la API
     function cargarDatos() {
-        fetch("http://localhost:5000/api/datos")
+        fetch("https://localhost:7090/api/datos")
             .then(response => response.json())
             .then(data => {
                 tableBody.innerHTML = "";
@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
             col10: document.getElementById("col10").value
         };
 
-        const url = id ? `http://localhost:5000/api/datos/${id}` : "http://localhost:5000/api/datos";
+        const url = id ? `https://localhost:7090/api/datos/${id}` : "https://localhost:7090/api/datos";
         const method = id ? "PUT" : "POST";
 
         fetch(url, {
@@ -68,14 +68,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Función para eliminar un dato
     window.eliminarFila = function(id) {
-        fetch(`http://localhost:5000/api/datos/${id}`, { method: "DELETE" })
+        fetch(`https://localhost:7090/api/datos/${id}`, { method: "DELETE" })
             .then(() => cargarDatos())
             .catch(error => console.error("Error al eliminar:", error));
     };
 
     // Función para cargar los datos en el formulario para edición
     window.editarFila = function(id) {
-        fetch(`http://localhost:5000/api/datos/${id}`)
+        fetch(`https://localhost:7090/api/datos/${id}`)
             .then(response => response.json())
             .then(data => {
                 document.getElementById("row-id").value = data.id;
